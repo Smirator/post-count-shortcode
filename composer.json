@@ -1,0 +1,18 @@
+{
+    "name": "ruslan/post-count-shortcode",
+    "description": "Тестовое задание-плагин для отображения 10 постов",
+    "require": {
+        "monolog/monolog": "^3.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ruslan\\PostCountShortcode\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ruslan Shkarban",
+            "email": "smirator2013@yandex.ru"
+        }
+    ]
+}
