@@ -76,7 +76,6 @@ if (!class_exists('Post_Count_Shortcode')) {
                 $output = 'Нет постов для отображения.';
             }
 
-            // Возвращение результата
             return $output;
         }
 
